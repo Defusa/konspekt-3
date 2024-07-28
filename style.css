@@ -1,0 +1,90 @@
+.euro-2012 ul li {
+  list-style: url(HW3/markers/football.png);
+}
+.euro-2012 ul li ul #poland {
+  list-style: url(HW3/markers/flags/poland.png);
+}
+.euro-2012 ul li ul #Russia {
+  list-style: url(HW3/markers/flags/russia.png);
+}
+.euro-2012 ul li ul #Czech {
+  list-style: url(HW3/markers/flags/czech.png);
+}
+.euro-2012 ul li ul #Greece {
+  list-style: url(HW3/markers/flags/greece.png);
+}
+.euro-2012 ul li ul #Germany {
+  list-style: url(HW3/markers/flags/germany.png);
+}
+.euro-2012 ul li ul #Netherlands {
+  list-style: url(HW3/markers/flags/netherlands.png);
+}
+.euro-2012 ul li ul #Portugal {
+  list-style: url(HW3/markers/flags/portugal.png);
+}
+.euro-2012 ul li ul #Denmark {
+  list-style: url(HW3/markers/flags/denmark.png);
+}
+.euro-2012 ul li ul #Spain {
+  list-style: url(HW3/markers/flags/spain.png);
+}
+.euro-2012 ul li ul #Italy {
+  list-style: url(HW3/markers/flags/italy.png);
+}
+.euro-2012 ul li ul #Croatia {
+  list-style: url(HW3/markers/flags/croatia.png);
+}
+.euro-2012 ul li ul #Ireland {
+  list-style: url(HW3/markers/flags/ireland.png);
+}
+.euro-2012 ul li ul #Ukraine {
+  list-style: url(HW3/markers/flags/ukraine.png);
+}
+.euro-2012 ul li ul #England {
+  list-style: url(HW3/markers/flags/england.png);
+}
+.euro-2012 ul li ul #France {
+  list-style: url(HW3/markers/flags/france.png);
+}
+.euro-2012 ul li ul #Sweden {
+  list-style: url(HW3/markers/flags/sweden.png);
+}
+
+.youth-elixir h1, .youth-elixir h3 {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.youth-elixir ol {
+  color: limegreen;
+}
+.youth-elixir ol ul {
+  color: black;
+}
+.youth-elixir strong {
+  font-size: larger;
+}
+.youth-elixir strong .warning {
+  color: red;
+  font-size: larger;
+}
+
+.site-map {
+  margin: 50px 0;
+}
+.site-map header {
+  padding: 0 40px;
+}
+.site-map ul ul {
+  list-style-image: url(HW3/markers/arrow.gif);
+}
+.site-map ul ul ol {
+  list-style: none;
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+.site-map ul ul ol li {
+  padding-left: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,126 @@
+.euro-2012 {    
+    ul {
+        li {
+            list-style: url(HW3/markers/football.png);
+
+            ul {
+                
+                #poland {
+                    list-style: url(HW3/markers/flags/poland.png);
+                }
+
+                #Russia {
+                    list-style: url(HW3/markers/flags/russia.png);
+                }
+
+                #Czech {
+                    list-style: url(HW3/markers/flags/czech.png);
+                }
+
+                #Greece {
+                    list-style: url(HW3/markers/flags/greece.png);
+                }
+
+                #Germany {
+                    list-style: url(HW3/markers/flags/germany.png);
+                }
+
+                #Netherlands {
+                    list-style: url(HW3/markers/flags/netherlands.png);
+                }
+
+                #Portugal {
+                    list-style: url(HW3/markers/flags/portugal.png);
+                }
+
+                #Denmark {
+                    list-style: url(HW3/markers/flags/denmark.png);
+                }
+                
+                #Spain {
+                    list-style: url(HW3/markers/flags/spain.png);
+                }
+
+                #Italy {
+                    list-style: url(HW3/markers/flags/italy.png);
+                }
+
+                #Croatia {
+                    list-style: url(HW3/markers/flags/croatia.png);
+                }
+
+                #Ireland {
+                    list-style: url(HW3/markers/flags/ireland.png);
+                }
+
+                #Ukraine {
+                    list-style: url(HW3/markers/flags/ukraine.png);
+                }
+
+                #England {
+                    list-style: url(HW3/markers/flags/england.png);
+                }
+
+                #France {
+                    list-style: url(HW3/markers/flags/france.png);
+                }
+
+                #Sweden {
+                    list-style: url(HW3/markers/flags/sweden.png);
+                }
+            }
+        }
+    }
+}
+
+.youth-elixir {
+
+    h1, h3{
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;;
+    }
+
+    ol {
+        color: limegreen;
+
+        ul {
+            color: black;
+        }
+    }
+
+    strong {
+        font-size: larger;
+
+        .warning {
+            color: red;
+            font-size: larger;
+        }
+    }
+}
+
+.site-map {
+
+    margin: 50px 0;
+    
+    header {
+        padding: 0 40px;
+    }
+
+    ul {
+        ul {
+            list-style-image: url(HW3/markers/arrow.gif);
+
+            ol {
+                list-style: none;
+                list-style-type: decimal;
+                list-style-position: outside;
+                
+                li {
+                    padding-left: 10px;
+                }
+            }
+        }
+    }
+    
+}
